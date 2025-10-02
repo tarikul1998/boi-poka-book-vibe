@@ -9,7 +9,7 @@ const Banner = () => {
                     src={bannerImg}
                     className="max-w-sm rounded-lg shadow-2xl" />
                 <div>
-                    <h1 className="text-5xl font-bold">Box Office News!</h1>
+                    <h1 className="text-5xl font-bold">Read Books</h1>
                     <br />
                     <button className="btn btn-success">Get Started</button>
                 </div>
