@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 
 const BookDetail = () => {
-    // Ami chaile params diye click kora item tar -> id ta niye nite pari -> Return korbe full ekta object akaare
+    // Amra chaile params diye book id ta niye nite pari -> useParams call korle Return korbe full ekta object
     // const param = useParams();
     // console.log(param);
     
